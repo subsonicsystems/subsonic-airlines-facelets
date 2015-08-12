@@ -1,0 +1,12 @@
+body {
+    font-family: Meiryo;
+    font-size: 13px;
+}
+
+.height300 {
+	height: 300px;
+}
+
+.header {
+	width: 100%;
+}
